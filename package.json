@@ -1,0 +1,31 @@
+{
+  "name": "get-wather",
+  "title": "get-wather.js",
+  "description": "天气抓取程序",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "somax",
+    "email": "somaxj@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "keywords": [],
+  "dependencies": {
+    "cheerio": "~0.16.0"
+  },
+  "devDependencies": {
+    
+  }
+}
